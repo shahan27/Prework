@@ -21,7 +21,8 @@ The following **required** functionality is completed:
 9. [x]  Required: Challenge 7 - Insecure Direct Object Reference Bank
 
 ## Video Walkthrough
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZnCTaFZ"  ><a href="//imgur.com/a/ZnCTaFZ">Shahan Rahman Prework</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://imgur.com/dgFvYUj.gif' title='Shahan Rahman Prework' width='' alt='Shahan Rahman Prework' />
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
