@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 6. [x]  Required: Challenge 5 - Insecure Direct Object References
 7. [x]  Required: Challenge 6 - Insecure Direct Object References Challenge 1
 8. [x]  Required: Challenge 7 - Insecure Direct Object References Challenge 2 
-9. [x]  Required: Challenge 7 - Insecure Direct Object Reference Bank
+9. [x]  Required: Challenge 8 - Insecure Direct Object Reference Bank
 
 ## Video Walkthrough
 <img src='https://imgur.com/dgFvYUj.gif' title='Shahan Rahman Prework' width='' alt='Shahan Rahman Prework' />
